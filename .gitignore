@@ -1,0 +1,11 @@
+# dependencies
+/node_modules
+
+# папка для тестов
+/dist
+
+# готовый продукт
+/build
+
+# разное
+.jshintrc
